@@ -1,5 +1,5 @@
 # 💫 About Me:
-Soy una estudiante de desarrollo web apasionada por la creación de experiencias digitales interactivas y funcionales. Actualmente, estoy aprendiendo y practicando habilidades en HTML, JavaScript, Python y explorando tecnologías. Mi objetivo es combinar mi creatividad con mis habilidades técnicas para crear nuevos proyectos. 
+Soy una estudiante de desarrollo web, digitales interactivas y funcionales. Actualmente, estoy aprendiendo y practicando habilidades en HTML, JavaScript, Python y explorando tecnologías. Mi objetivo es combinar mi creatividad con mis habilidades técnicas para crear nuevos proyectos. 
 
 
 # 💻 Tech Stack:
